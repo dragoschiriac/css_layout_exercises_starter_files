@@ -1,0 +1,35 @@
+
+main{
+  width: 800px;
+  height: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 0;
+}
+div{
+  display: inline-block;
+  border: 1px solid black;
+}
+.half{
+  height: 200px;
+  width: 50%;
+}
+.third{
+  height: 300px;
+  width: 33.33%;
+}
+.half-one{
+  background-color: green;
+}
+.half-two{
+  background-color: blue;
+}
+.third-one{
+  background-color: grey;
+}
+.third-two{
+  background-color: black;
+}
+.third-three{
+  background-color: orange;
+}
